@@ -8,7 +8,7 @@
         <path d="M5.84 6.791c.014-.04.03-.08.046-.119-.017.04-.031.08-.047.12z" fill="#2880B9"/>
     </g>
     <defs>
-        <clipPath id="flag_br_small_svg__clip0">
+        <clipPath>
             <path fill="#fff" d="M0 2.5h16v11H0z"/>
         </clipPath>
     </defs>

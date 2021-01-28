@@ -21,7 +21,7 @@
         <path fill="url(#flag_sl_small_svg__pattern0)" d="M6.783 8.796h1.669v2.597H6.783z"/>
     </g>
     <defs>
-        <clipPath id="flag_sl_small_svg__clip0">
+        <clipPath>
             <path fill="#fff" d="M4 6.5h16v11H4z"/>
         </clipPath>
         <pattern id="flag_sl_small_svg__pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">

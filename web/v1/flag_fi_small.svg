@@ -5,7 +5,7 @@
         <path d="M6.991 6.621V2.5H4.975v4.121H.5v2.07h4.475v4.121H6.99v-4.12H15.5v-2.07H6.991z" fill="#003580"/>
     </g>
     <defs>
-        <clipPath id="flag_fi_small_svg__clip0">
+        <clipPath>
             <path fill="#fff" d="M0 2.5h16v11H0z"/>
         </clipPath>
     </defs>

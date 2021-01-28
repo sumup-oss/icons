@@ -5,7 +5,7 @@
         <path d="M3.334 2.5v6.305M.5 5.365h5.669m0-1.146h9.33m-9.33 2.293h9.33M.5 8.805h14.999M.5 11.097h14.999" stroke="#fff" stroke-width="1.051"/>
     </g>
     <defs>
-        <clipPath id="flag_gr_small_svg__clip0">
+        <clipPath>
             <path fill="#fff" d="M0 2.5h16v11H0z"/>
         </clipPath>
     </defs>

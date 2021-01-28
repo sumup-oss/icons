@@ -6,7 +6,7 @@
         <path d="M.5 11.3c0 .836.671 1.513 1.5 1.513h12c.829 0 1.5-.678 1.5-1.512V9.383H.5V11.3z" fill="#436F4D"/>
     </g>
     <defs>
-        <clipPath id="flag_hu_small_svg__clip0">
+        <clipPath>
             <path fill="#fff" d="M0 2.5h16v11H0z"/>
         </clipPath>
     </defs>

@@ -6,7 +6,7 @@
         <path d="M1.083 2.741A1.37 1.37 0 00.5 3.867v7.591c0 .25.067.494.194.707.127.214.31.388.527.504L8.17 7.753 1.083 2.741z" fill="#11457E"/>
     </g>
     <defs>
-        <clipPath id="flag_cz_small_svg__clip0">
+        <clipPath>
             <path fill="#fff" d="M0 2.5h16v11H0z"/>
         </clipPath>
     </defs>
